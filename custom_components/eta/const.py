@@ -1,6 +1,6 @@
 NAME = "eta"
 DOMAIN = "eta"
-ISSUE_URL = "https://github.com/nigl/homeassistant_eta_integration/issues"
+ISSUE_URL = "https://github.com/civ0/homeassistant_eta_integration/issues"
 # Configuration and options
 CONF_ENABLED = "enabled"
 
